@@ -1,0 +1,10 @@
+{
+  "month": "string",
+  "employees": [
+    {
+      "name": "string",
+      "extra_hours": "number",
+      "tip": "number"
+    }
+  ]
+}
